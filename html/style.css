@@ -1,0 +1,48 @@
+/* h1{
+    color: red; */
+/* } */
+
+/* .bro{
+    color: pink;
+}
+#monu{
+    color: cyan;
+} */
+/* div p span{
+   /* color: blue; */
+   /* background-color: rgb(146, 128, 47); */
+/* }
+.sonu{
+    color: blue;
+} */ 
+/* .monu{
+    color: rgb(43, 185, 14);
+} */
+
+/* div p span{
+    color: blue;
+} */
+/* div > p > span{
+    color: rgb(241, 18, 18);
+} */
+
+/* .sonu{
+    color: blueviolet;
+}
+.monu{
+    color: burlywood;
+}
+.sonu.monu{
+    color: brown;
+} */
+
+/* .c1 p{
+    color: blue;
+}
+.c1>p {
+    color: coral;
+} */
+
+input[type="text"]{
+    color: blue;
+}
