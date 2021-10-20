@@ -1,2 +1,2 @@
 # depedencies
-/node_modules
+.gitignore/node_modules
