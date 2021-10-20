@@ -1,0 +1,865 @@
+[
+    {
+        "topicUrl": "https://www.github.com/topics/cpp",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/CyC2018/CS-Notes",
+                "issues": [
+                    {
+                        "issueName": "Trying to get in touch regarding a security issue",
+                        "issueUrl": "https://www.github.com/CyC2018/CS-Notes/issues/1131"
+                    },
+                    {
+                        "issueName": "Cyc2018",
+                        "issueUrl": "https://www.github.com/CyC2018/CS-Notes/issues/1129"
+                    },
+                    {
+                        "issueName": "Java 并发部分对join()方法的描述示例有迷惑性",
+                        "issueUrl": "https://www.github.com/CyC2018/CS-Notes/issues/1128"
+                    },
+                    {
+                        "issueName": "关于Redis篇的第六部分，键的过期时间描述有问题",
+                        "issueUrl": "https://www.github.com/CyC2018/CS-Notes/issues/1126"
+                    },
+                    {
+                        "issueName": "HTTP的各种方法只是语义上不同吧",
+                        "issueUrl": "https://www.github.com/CyC2018/CS-Notes/issues/1123"
+                    },
+                    {
+                        "issueName": "9.用两个队列实现栈的题解是不是有问题",
+                        "issueUrl": "https://www.github.com/CyC2018/CS-Notes/issues/1122"
+                    },
+                    {
+                        "issueName": "计算机基础->HTTP里的概念表述问题",
+                        "issueUrl": "https://www.github.com/CyC2018/CS-Notes/issues/1118"
+                    },
+                    {
+                        "issueName": "是否有PDF版本",
+                        "issueUrl": "https://www.github.com/CyC2018/CS-Notes/issues/1117"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/practical-tutorials/project-based-learning",
+                "issues": [
+                    {
+                        "issueName": "Android Tutorial",
+                        "issueUrl": "https://www.github.com/practical-tutorials/project-based-learning/issues/332"
+                    },
+                    {
+                        "issueName": "Looking for maintainers",
+                        "issueUrl": "https://www.github.com/practical-tutorials/project-based-learning/issues/310"
+                    },
+                    {
+                        "issueName": "Is project based learning still alive?",
+                        "issueUrl": "https://www.github.com/practical-tutorials/project-based-learning/issues/295"
+                    },
+                    {
+                        "issueName": "Add Flutter tutorials",
+                        "issueUrl": "https://www.github.com/practical-tutorials/project-based-learning/issues/282"
+                    },
+                    {
+                        "issueName": "Add dropdowns to the list",
+                        "issueUrl": "https://www.github.com/practical-tutorials/project-based-learning/issues/259"
+                    },
+                    {
+                        "issueName": "Addition of More Evolutionary/Genetic Algorithms ",
+                        "issueUrl": "https://www.github.com/practical-tutorials/project-based-learning/issues/241"
+                    },
+                    {
+                        "issueName": "Proposal for better gatekeeping: stick to masterpiece materials",
+                        "issueUrl": "https://www.github.com/practical-tutorials/project-based-learning/issues/143"
+                    },
+                    {
+                        "issueName": "Table of content does not match the order of the presented content.",
+                        "issueUrl": "https://www.github.com/practical-tutorials/project-based-learning/issues/140"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/azl397985856/leetcode",
+                "issues": [
+                    {
+                        "issueName": "算法通关之路 的 leetcode 題目數量",
+                        "issueUrl": "https://www.github.com/azl397985856/leetcode/issues/506"
+                    },
+                    {
+                        "issueName": "【每日一题】- 2021-08-11 - 两个质数和",
+                        "issueUrl": "https://www.github.com/azl397985856/leetcode/issues/503"
+                    },
+                    {
+                        "issueName": "【每日一题】- 2021-08-14 - 患病的概率",
+                        "issueUrl": "https://www.github.com/azl397985856/leetcode/issues/500"
+                    },
+                    {
+                        "issueName": "【每日一题】- 2021-07-30 - 最大的二叉搜索子树",
+                        "issueUrl": "https://www.github.com/azl397985856/leetcode/issues/497"
+                    },
+                    {
+                        "issueName": "【每日一题】- 2021-07-27 - 黑名单随机数",
+                        "issueUrl": "https://www.github.com/azl397985856/leetcode/issues/496"
+                    },
+                    {
+                        "issueName": "【每日一题】- 2021-07-24 - 检查方位规则是否有效 ",
+                        "issueUrl": "https://www.github.com/azl397985856/leetcode/issues/495"
+                    },
+                    {
+                        "issueName": "【刷题小助手】贡献公司标签（面试遇到leetcode原题或类似题），成为开源项目的贡献者😘",
+                        "issueUrl": "https://www.github.com/azl397985856/leetcode/issues/382"
+                    },
+                    {
+                        "issueName": "1168. optimize water distribution in a village python解法超出时间限制",
+                        "issueUrl": "https://www.github.com/azl397985856/leetcode/issues/219"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/x64dbg/x64dbg",
+                "issues": [
+                    {
+                        "issueName": "GUI request",
+                        "issueUrl": "https://www.github.com/x64dbg/x64dbg/issues/2735"
+                    },
+                    {
+                        "issueName": "Doesn't show heap memory",
+                        "issueUrl": "https://www.github.com/x64dbg/x64dbg/issues/2732"
+                    },
+                    {
+                        "issueName": "Welcome tab",
+                        "issueUrl": "https://www.github.com/x64dbg/x64dbg/issues/2728"
+                    },
+                    {
+                        "issueName": "Callstack view should use a different color for user call stack trace",
+                        "issueUrl": "https://www.github.com/x64dbg/x64dbg/issues/2727"
+                    },
+                    {
+                        "issueName": "The labels shown in disassembly view should be undecorated",
+                        "issueUrl": "https://www.github.com/x64dbg/x64dbg/issues/2726"
+                    },
+                    {
+                        "issueName": "Thread switch is logged every time the debuggee is restarted",
+                        "issueUrl": "https://www.github.com/x64dbg/x64dbg/issues/2725"
+                    },
+                    {
+                        "issueName": "i have a question how can we load a dll in x64dbg ?i tried my best but can you tell me about this?one more thing this dll is used as a third party plugin",
+                        "issueUrl": "https://www.github.com/x64dbg/x64dbg/issues/2724"
+                    },
+                    {
+                        "issueName": "How do I permanently set the Dump1 tab to show my EXE's \".data\" section?",
+                        "issueUrl": "https://www.github.com/x64dbg/x64dbg/issues/2721"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/fffaraz/awesome-cpp",
+                "issues": [
+                    {
+                        "issueName": "aubio/aubio",
+                        "issueUrl": "https://www.github.com/fffaraz/awesome-cpp/issues/1149"
+                    },
+                    {
+                        "issueName": "Where add Sourcetrail?",
+                        "issueUrl": "https://www.github.com/fffaraz/awesome-cpp/issues/1144"
+                    },
+                    {
+                        "issueName": "troydhanson/uthash",
+                        "issueUrl": "https://www.github.com/fffaraz/awesome-cpp/issues/1141"
+                    },
+                    {
+                        "issueName": "slembcke/Chipmunk2D",
+                        "issueUrl": "https://www.github.com/fffaraz/awesome-cpp/issues/1140"
+                    },
+                    {
+                        "issueName": "facontidavide/CPP_Optimizations_Diary",
+                        "issueUrl": "https://www.github.com/fffaraz/awesome-cpp/issues/1139"
+                    },
+                    {
+                        "issueName": "MarcDirven/cpp-lazy",
+                        "issueUrl": "https://www.github.com/fffaraz/awesome-cpp/issues/1138"
+                    },
+                    {
+                        "issueName": "magiblot/tvision",
+                        "issueUrl": "https://www.github.com/fffaraz/awesome-cpp/issues/1137"
+                    },
+                    {
+                        "issueName": "C++/game engine channel",
+                        "issueUrl": "https://www.github.com/fffaraz/awesome-cpp/issues/1129"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/microsoft/calculator",
+                "issues": [
+                    {
+                        "issueName": "Make appearance (dark and light mode) A drop down box like Windows 11 settings.",
+                        "issueUrl": "https://www.github.com/microsoft/calculator/issues/1697"
+                    },
+                    {
+                        "issueName": "Improve startup performance by optimizing .NET Native configuration",
+                        "issueUrl": "https://www.github.com/microsoft/calculator/issues/1688"
+                    },
+                    {
+                        "issueName": "Windows calculator support for new floating-point formats: cfloats, areals, unums, posits, valids, etc.",
+                        "issueUrl": "https://www.github.com/microsoft/calculator/issues/1681"
+                    },
+                    {
+                        "issueName": "Additional parameters should not visually be inserted on behalf of user",
+                        "issueUrl": "https://www.github.com/microsoft/calculator/issues/1678"
+                    },
+                    {
+                        "issueName": "The Name property of 'Function input' list must not include the element's control type.",
+                        "issueUrl": "https://www.github.com/microsoft/calculator/issues/1676"
+                    },
+                    {
+                        "issueName": "The name must not include the same text as the localizedcontrol type.",
+                        "issueUrl": "https://www.github.com/microsoft/calculator/issues/1675"
+                    },
+                    {
+                        "issueName": "Name is not defined for \"Change Equation Style\" pop-up when activating it.",
+                        "issueUrl": "https://www.github.com/microsoft/calculator/issues/1674"
+                    },
+                    {
+                        "issueName": "In scan mode, Narrator focus is going multiple times on 'Equation'  while navigating using up/down arrow key.",
+                        "issueUrl": "https://www.github.com/microsoft/calculator/issues/1673"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/CMU-Perceptual-Computing-Lab/openpose",
+                "issues": [
+                    {
+                        "issueName": "Check failed: error == cudaSuccess (2 vs. 0)  out of memory",
+                        "issueUrl": "https://www.github.com/CMU-Perceptual-Computing-Lab/openpose/issues/2015"
+                    },
+                    {
+                        "issueName": "V",
+                        "issueUrl": "https://www.github.com/CMU-Perceptual-Computing-Lab/openpose/issues/2014"
+                    },
+                    {
+                        "issueName": "Cmake-gui wont work on SSH terminal ",
+                        "issueUrl": "https://www.github.com/CMU-Perceptual-Computing-Lab/openpose/issues/2013"
+                    },
+                    {
+                        "issueName": "How to speed up CPU version?",
+                        "issueUrl": "https://www.github.com/CMU-Perceptual-Computing-Lab/openpose/issues/2010"
+                    },
+                    {
+                        "issueName": "Please support all GPUs that support CUDA",
+                        "issueUrl": "https://www.github.com/CMU-Perceptual-Computing-Lab/openpose/issues/2009"
+                    },
+                    {
+                        "issueName": "OOM on a GTX 1060 with 6Gb of VRAM on CUDA 11.1 and cuDNN 8.04 on Ubuntu",
+                        "issueUrl": "https://www.github.com/CMU-Perceptual-Computing-Lab/openpose/issues/2008"
+                    },
+                    {
+                        "issueName": "if the 18-channel heat map could be replaced with something more compact?",
+                        "issueUrl": "https://www.github.com/CMU-Perceptual-Computing-Lab/openpose/issues/2006"
+                    },
+                    {
+                        "issueName": "Dataset download servers are slow / connection times out",
+                        "issueUrl": "https://www.github.com/CMU-Perceptual-Computing-Lab/openpose/issues/2005"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/huihut/interview",
+                "issues": [
+                    {
+                        "issueName": "TCP释放连接过程",
+                        "issueUrl": "https://www.github.com/huihut/interview/issues/81"
+                    },
+                    {
+                        "issueName": "线程安全",
+                        "issueUrl": "https://www.github.com/huihut/interview/issues/67"
+                    },
+                    {
+                        "issueName": "[讨论] 本仓库的建议、讨论等方面",
+                        "issueUrl": "https://www.github.com/huihut/interview/issues/12"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/google",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/google-research/bert",
+                "issues": [
+                    {
+                        "issueName": "You missed Ro",
+                        "issueUrl": "https://www.github.com/google-research/bert/issues/1264"
+                    },
+                    {
+                        "issueName": "BasicTokenizer process question(tokenization.py)",
+                        "issueUrl": "https://www.github.com/google-research/bert/issues/1259"
+                    },
+                    {
+                        "issueName": "Why just show global_step/sec&examples/sec by pretrain?",
+                        "issueUrl": "https://www.github.com/google-research/bert/issues/1258"
+                    },
+                    {
+                        "issueName": "Printing the weights of a pre-trained model",
+                        "issueUrl": "https://www.github.com/google-research/bert/issues/1257"
+                    },
+                    {
+                        "issueName": "Scripts to Reproduce the \"Well-Read Students Learn Better\" Results",
+                        "issueUrl": "https://www.github.com/google-research/bert/issues/1256"
+                    },
+                    {
+                        "issueName": "BERT pretraining: MLM Acc 0.558 and NSP Acc 0.987 -- does this mean overfitting?",
+                        "issueUrl": "https://www.github.com/google-research/bert/issues/1255"
+                    },
+                    {
+                        "issueName": "questions about mlm task during pretraining",
+                        "issueUrl": "https://www.github.com/google-research/bert/issues/1251"
+                    },
+                    {
+                        "issueName": "Where is pre-trained model tf_examples.tfrecord ?",
+                        "issueUrl": "https://www.github.com/google-research/bert/issues/1250"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/kelthuzadx/hosts",
+                "issues": [
+                    {
+                        "issueName": "This page cannot be loaded using Chrome Data Saver. Try reloading the page.  Debug info: GET U6hvW4eqK5amwwKt3Jdw",
+                        "issueUrl": "https://www.github.com/kelthuzadx/hosts/issues/1363"
+                    },
+                    {
+                        "issueName": "请不要随意修改Wiki里的内容",
+                        "issueUrl": "https://www.github.com/kelthuzadx/hosts/issues/1354"
+                    },
+                    {
+                        "issueName": "已新建组织对Hosts进行维护,此repo本人已不再维护",
+                        "issueUrl": "https://www.github.com/kelthuzadx/hosts/issues/1349"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/google/yapf",
+                "issues": [
+                    {
+                        "issueName": "column_limit = 0 setting produces ZeroDivisionError",
+                        "issueUrl": "https://www.github.com/google/yapf/issues/965"
+                    },
+                    {
+                        "issueName": "Feature Request: Cached outputs",
+                        "issueUrl": "https://www.github.com/google/yapf/issues/963"
+                    },
+                    {
+                        "issueName": "README error: [yapf] vs [style]",
+                        "issueUrl": "https://www.github.com/google/yapf/issues/961"
+                    },
+                    {
+                        "issueName": "Unstable output with broken comment indentation",
+                        "issueUrl": "https://www.github.com/google/yapf/issues/959"
+                    },
+                    {
+                        "issueName": "Unstable output with semicolon",
+                        "issueUrl": "https://www.github.com/google/yapf/issues/958"
+                    },
+                    {
+                        "issueName": "please add an optional to split the muti slice when ending with comma",
+                        "issueUrl": "https://www.github.com/google/yapf/issues/956"
+                    },
+                    {
+                        "issueName": "Unicode line separator und newline break parsing",
+                        "issueUrl": "https://www.github.com/google/yapf/issues/949"
+                    },
+                    {
+                        "issueName": "split_before_first_argument breaks split_all_top_level_comma_separated_values but not split_all_comma_separated_values",
+                        "issueUrl": "https://www.github.com/google/yapf/issues/948"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/firebase/functions-samples",
+                "issues": [
+                    {
+                        "issueName": "[DOCS] Linkedin OAuth link",
+                        "issueUrl": "https://www.github.com/firebase/functions-samples/issues/910"
+                    },
+                    {
+                        "issueName": "[BUG] in sample: stripe (FUNCTION_NAME)",
+                        "issueUrl": "https://www.github.com/firebase/functions-samples/issues/909"
+                    },
+                    {
+                        "issueName": "when download code form git its showing me that error in codeigniter ",
+                        "issueUrl": "https://www.github.com/firebase/functions-samples/issues/904"
+                    },
+                    {
+                        "issueName": "[DOCS] Firebase idToken and Cloud Function Authorization",
+                        "issueUrl": "https://www.github.com/firebase/functions-samples/issues/903"
+                    },
+                    {
+                        "issueName": "[BUG] in sample: LinkedIn Auth __session cookie does not persist when function is called by popup.html",
+                        "issueUrl": "https://www.github.com/firebase/functions-samples/issues/876"
+                    },
+                    {
+                        "issueName": "Stripe Demo Deploy fails",
+                        "issueUrl": "https://www.github.com/firebase/functions-samples/issues/870"
+                    },
+                    {
+                        "issueName": "[BUG] in sample: instagram-auth",
+                        "issueUrl": "https://www.github.com/firebase/functions-samples/issues/869"
+                    },
+                    {
+                        "issueName": "Cross-origin error with Stripe library",
+                        "issueUrl": "https://www.github.com/firebase/functions-samples/issues/857"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/mxrch/GHunt",
+                "issues": [
+                    {
+                        "issueName": "Check and Gen.py Error",
+                        "issueUrl": "https://www.github.com/mxrch/GHunt/issues/273"
+                    },
+                    {
+                        "issueName": "FileNotFoundError",
+                        "issueUrl": "https://www.github.com/mxrch/GHunt/issues/269"
+                    },
+                    {
+                        "issueName": "Error symbol not found: _clock_gettime under python3.6",
+                        "issueUrl": "https://www.github.com/mxrch/GHunt/issues/267"
+                    },
+                    {
+                        "issueName": "Traceback when searching docs",
+                        "issueUrl": "https://www.github.com/mxrch/GHunt/issues/264"
+                    },
+                    {
+                        "issueName": "Google",
+                        "issueUrl": "https://www.github.com/mxrch/GHunt/issues/262"
+                    },
+                    {
+                        "issueName": "check_and_gen.py: List index out of range",
+                        "issueUrl": "https://www.github.com/mxrch/GHunt/issues/261"
+                    },
+                    {
+                        "issueName": "cannot assign requested address :( Is anyone here?",
+                        "issueUrl": "https://www.github.com/mxrch/GHunt/issues/260"
+                    },
+                    {
+                        "issueName": "failed parse reviews",
+                        "issueUrl": "https://www.github.com/mxrch/GHunt/issues/259"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/googleapis/google-api-nodejs-client",
+                "issues": [
+                    {
+                        "issueName": "Error: \"Missing required parameters: matterId\"",
+                        "issueUrl": "https://www.github.com/googleapis/google-api-nodejs-client/issues/2791"
+                    },
+                    {
+                        "issueName": "google.auth google.auth.getClient: allows client to be configured using historical API failed",
+                        "issueUrl": "https://www.github.com/googleapis/google-api-nodejs-client/issues/2790"
+                    },
+                    {
+                        "issueName": "Parameters seems to not be serialized",
+                        "issueUrl": "https://www.github.com/googleapis/google-api-nodejs-client/issues/2789"
+                    },
+                    {
+                        "issueName": "Admin SDK API returns bad request 400 error",
+                        "issueUrl": "https://www.github.com/googleapis/google-api-nodejs-client/issues/2788"
+                    },
+                    {
+                        "issueName": "YouTube samples: should upload a video failed",
+                        "issueUrl": "https://www.github.com/googleapis/google-api-nodejs-client/issues/2787"
+                    },
+                    {
+                        "issueName": "Error: Required parameter: mimeType but already set",
+                        "issueUrl": "https://www.github.com/googleapis/google-api-nodejs-client/issues/2754"
+                    },
+                    {
+                        "issueName": "A link to google meet is not created ",
+                        "issueUrl": "https://www.github.com/googleapis/google-api-nodejs-client/issues/2751"
+                    },
+                    {
+                        "issueName": "@googleapis packages are not being updated in npm",
+                        "issueUrl": "https://www.github.com/googleapis/google-api-nodejs-client/issues/2750"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/google/dopamine",
+                "issues": [
+                    {
+                        "issueName": "Minor bug for frame_skip at AtariPreprocessing",
+                        "issueUrl": "https://www.github.com/google/dopamine/issues/177"
+                    },
+                    {
+                        "issueName": "[question] Printing model summary",
+                        "issueUrl": "https://www.github.com/google/dopamine/issues/176"
+                    },
+                    {
+                        "issueName": "Documentation is out of date",
+                        "issueUrl": "https://www.github.com/google/dopamine/issues/173"
+                    },
+                    {
+                        "issueName": "Getting 7 as action for a game with 3 actions",
+                        "issueUrl": "https://www.github.com/google/dopamine/issues/170"
+                    },
+                    {
+                        "issueName": "\"How to create and train a custom agent\" doesn't actually do any learning",
+                        "issueUrl": "https://www.github.com/google/dopamine/issues/160"
+                    },
+                    {
+                        "issueName": "NameError: name 'gin_files' is not defined",
+                        "issueUrl": "https://www.github.com/google/dopamine/issues/159"
+                    },
+                    {
+                        "issueName": "Jax vs normal agent",
+                        "issueUrl": "https://www.github.com/google/dopamine/issues/153"
+                    },
+                    {
+                        "issueName": "exit when playing",
+                        "issueUrl": "https://www.github.com/google/dopamine/issues/151"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/tensorlayer/tensorlayer",
+                "issues": [
+                    {
+                        "issueName": "Performance issue in the definition of read_and_decode, examples/data_process/tutorial_tfrecord.py(P1)",
+                        "issueUrl": "https://www.github.com/tensorlayer/tensorlayer/issues/1140"
+                    },
+                    {
+                        "issueName": "Performance issues in examples/",
+                        "issueUrl": "https://www.github.com/tensorlayer/tensorlayer/issues/1139"
+                    },
+                    {
+                        "issueName": "tl.layers.DropoutLayer 用于构建tf.estimator.Estimator，训练/预测模式切换时 报错 ‘ValueError: Variable model/relu1/W does not exist, or was not created with tf.get_variable(). Did you mean to set reuse=tf.AUTO_REUSE in VarScope?’",
+                        "issueUrl": "https://www.github.com/tensorlayer/tensorlayer/issues/1133"
+                    },
+                    {
+                        "issueName": "SRGAN转为.pb",
+                        "issueUrl": "https://www.github.com/tensorlayer/tensorlayer/issues/1125"
+                    },
+                    {
+                        "issueName": "examples/reinforcement_learning/tutorial_A3C.py Training failure to converge",
+                        "issueUrl": "https://www.github.com/tensorlayer/tensorlayer/issues/1124"
+                    },
+                    {
+                        "issueName": "Possible Arbitrary code execution bug.",
+                        "issueUrl": "https://www.github.com/tensorlayer/tensorlayer/issues/1116"
+                    },
+                    {
+                        "issueName": "batch normalization layer for data_format == 'channels_last'",
+                        "issueUrl": "https://www.github.com/tensorlayer/tensorlayer/issues/1103"
+                    },
+                    {
+                        "issueName": "Can't get VGG: urllib.error.HTTPError: HTTP Error 404: Not Found",
+                        "issueUrl": "https://www.github.com/tensorlayer/tensorlayer/issues/1099"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://www.github.com/topics/ansible",
+        "repos": [
+            {
+                "repoUrl": "https://www.github.com/ansible/ansible",
+                "issues": [
+                    {
+                        "issueName": "ansible.builtin.reboot fails regularly",
+                        "issueUrl": "https://www.github.com/ansible/ansible/issues/75746"
+                    },
+                    {
+                        "issueName": "The link to \"edit on github\" for your documentation pages leads to a 404",
+                        "issueUrl": "https://www.github.com/ansible/ansible/issues/75739"
+                    },
+                    {
+                        "issueName": "[Cron module] Should support disabling crontob without changing it's specifications",
+                        "issueUrl": "https://www.github.com/ansible/ansible/issues/75734"
+                    },
+                    {
+                        "issueName": "Callback plugins will crash if a module returns exception=None",
+                        "issueUrl": "https://www.github.com/ansible/ansible/issues/75726"
+                    },
+                    {
+                        "issueName": "Sidebar doesn't have links updated to versions other than latest when selecting another version",
+                        "issueUrl": "https://www.github.com/ansible/ansible/issues/75716"
+                    },
+                    {
+                        "issueName": "[2.11 and before] ansible-test crashes when using --remote, skip/<remote> and cloud/",
+                        "issueUrl": "https://www.github.com/ansible/ansible/issues/75711"
+                    },
+                    {
+                        "issueName": "omit does not work properly with become",
+                        "issueUrl": "https://www.github.com/ansible/ansible/issues/75692"
+                    },
+                    {
+                        "issueName": "Docs: Use code-block elements to format code examples: Network guides",
+                        "issueUrl": "https://www.github.com/ansible/ansible/issues/75676"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/StreisandEffect/streisand",
+                "issues": [
+                    {
+                        "issueName": "This repository has been marked as archived, but the streisand-discussions repo will remain open",
+                        "issueUrl": "https://www.github.com/StreisandEffect/streisand/issues/1841"
+                    },
+                    {
+                        "issueName": "Streisand",
+                        "issueUrl": "https://www.github.com/StreisandEffect/streisand/issues/1838"
+                    },
+                    {
+                        "issueName": "FAILED - RETRYING: Refresh the Streisand GPG keyring with keyserver information",
+                        "issueUrl": "https://www.github.com/StreisandEffect/streisand/issues/1836"
+                    },
+                    {
+                        "issueName": "error install Ubuntu 16.04",
+                        "issueUrl": "https://www.github.com/StreisandEffect/streisand/issues/1835"
+                    },
+                    {
+                        "issueName": "The directory ./venv already exists, and it does not appear to contain a Python virtualenv.",
+                        "issueUrl": "https://www.github.com/StreisandEffect/streisand/issues/1832"
+                    },
+                    {
+                        "issueName": "Window 10 Using WSL",
+                        "issueUrl": "https://www.github.com/StreisandEffect/streisand/issues/1829"
+                    },
+                    {
+                        "issueName": "UNREACHABLE!  Failed to connect to the host via ssh",
+                        "issueUrl": "https://www.github.com/StreisandEffect/streisand/issues/1828"
+                    },
+                    {
+                        "issueName": "HOWTO Install on Ubuntu 20.04",
+                        "issueUrl": "https://www.github.com/StreisandEffect/streisand/issues/1826"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/trailofbits/algo",
+                "issues": [
+                    {
+                        "issueName": "Now that I _look_ for it, there _does_ seem to be _some_ documentation of the sort I was looking for, just not all together by cloud provider.  It'd _still_ be useful to have information, newly duplicated or just reformatted, organized that way, though…",
+                        "issueUrl": "https://www.github.com/trailofbits/algo/issues/14298"
+                    },
+                    {
+                        "issueName": "EC2 CloudFormation linter identifies public key is not used",
+                        "issueUrl": "https://www.github.com/trailofbits/algo/issues/14294"
+                    },
+                    {
+                        "issueName": "EC2 IPSec security group ports open even when disabled",
+                        "issueUrl": "https://www.github.com/trailofbits/algo/issues/14293"
+                    },
+                    {
+                        "issueName": "reduce_mtu parameter not working",
+                        "issueUrl": "https://www.github.com/trailofbits/algo/issues/14292"
+                    },
+                    {
+                        "issueName": "Not able to view Twitter Profiles and Tweet Conversations/Threats on iOS",
+                        "issueUrl": "https://www.github.com/trailofbits/algo/issues/14286"
+                    },
+                    {
+                        "issueName": "EC2 instance type with arm64 architecture fails",
+                        "issueUrl": "https://www.github.com/trailofbits/algo/issues/14280"
+                    },
+                    {
+                        "issueName": "nm-applet is missing added VPN",
+                        "issueUrl": "https://www.github.com/trailofbits/algo/issues/14267"
+                    },
+                    {
+                        "issueName": "Setting certain variables to false results in them being true",
+                        "issueUrl": "https://www.github.com/trailofbits/algo/issues/14264"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/bregman-arie/devops-exercises",
+                "issues": [
+                    {
+                        "issueName": "Can we add something related to ESXI?",
+                        "issueUrl": "https://www.github.com/bregman-arie/devops-exercises/issues/154"
+                    },
+                    {
+                        "issueName": "Is there any support for AWS Python SDK",
+                        "issueUrl": "https://www.github.com/bregman-arie/devops-exercises/issues/153"
+                    },
+                    {
+                        "issueName": "[Suggestion] WebPage For Reader",
+                        "issueUrl": "https://www.github.com/bregman-arie/devops-exercises/issues/117"
+                    },
+                    {
+                        "issueName": "## Python/Regex fix",
+                        "issueUrl": "https://www.github.com/bregman-arie/devops-exercises/issues/65"
+                    },
+                    {
+                        "issueName": "Add script to automatize question count update",
+                        "issueUrl": "https://www.github.com/bregman-arie/devops-exercises/issues/55"
+                    },
+                    {
+                        "issueName": "Add script for getting a random question",
+                        "issueUrl": "https://www.github.com/bregman-arie/devops-exercises/issues/54"
+                    },
+                    {
+                        "issueName": "Test suite",
+                        "issueUrl": "https://www.github.com/bregman-arie/devops-exercises/issues/51"
+                    },
+                    {
+                        "issueName": "Add advanced Go questions",
+                        "issueUrl": "https://www.github.com/bregman-arie/devops-exercises/issues/23"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/kubernetes-sigs/kubespray",
+                "issues": [
+                    {
+                        "issueName": "typha prometheus settings cause a failing deploy",
+                        "issueUrl": "https://www.github.com/kubernetes-sigs/kubespray/issues/8004"
+                    },
+                    {
+                        "issueName": "Weave 2.8.1 fails to start due to missing volume mount",
+                        "issueUrl": "https://www.github.com/kubernetes-sigs/kubespray/issues/8003"
+                    },
+                    {
+                        "issueName": "Allow monitoring of etcd when etcd_deployment_type=host",
+                        "issueUrl": "https://www.github.com/kubernetes-sigs/kubespray/issues/8002"
+                    },
+                    {
+                        "issueName": "coredns as secondary dns, when using nodelocaldns mode",
+                        "issueUrl": "https://www.github.com/kubernetes-sigs/kubespray/issues/7997"
+                    },
+                    {
+                        "issueName": "CVE-2021-33503 detected in kubespray 2.17.0 release",
+                        "issueUrl": "https://www.github.com/kubernetes-sigs/kubespray/issues/7994"
+                    },
+                    {
+                        "issueName": "Metrics-server : bind: permission denied",
+                        "issueUrl": "https://www.github.com/kubernetes-sigs/kubespray/issues/7988"
+                    },
+                    {
+                        "issueName": "Docker is installed on the etcd nodes. even though I set etcd_deployment_type: host",
+                        "issueUrl": "https://www.github.com/kubernetes-sigs/kubespray/issues/7987"
+                    },
+                    {
+                        "issueName": "Add support for kube-vip",
+                        "issueUrl": "https://www.github.com/kubernetes-sigs/kubespray/issues/7986"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/ansible/awx",
+                "issues": [
+                    {
+                        "issueName": "Job fails to find the playbook when running a job on an execution_node",
+                        "issueUrl": "https://www.github.com/ansible/awx/issues/11116"
+                    },
+                    {
+                        "issueName": "Enforce runner version in execution nodes",
+                        "issueUrl": "https://www.github.com/ansible/awx/issues/11114"
+                    },
+                    {
+                        "issueName": "slack URL uses /system/ instead of /management/ 404 (not found)",
+                        "issueUrl": "https://www.github.com/ansible/awx/issues/11113"
+                    },
+                    {
+                        "issueName": "Make sure that ansible-runner version gets pinned in AWX",
+                        "issueUrl": "https://www.github.com/ansible/awx/issues/11112"
+                    },
+                    {
+                        "issueName": "Execution node jobs canceled (via receptor) while in progress show as running forever",
+                        "issueUrl": "https://www.github.com/ansible/awx/issues/11110"
+                    },
+                    {
+                        "issueName": "Failed to pull image. read: connection reset by peer.",
+                        "issueUrl": "https://www.github.com/ansible/awx/issues/11109"
+                    },
+                    {
+                        "issueName": "ERROR! couldn't resolve module/action 'community.kubernetes.k8s'",
+                        "issueUrl": "https://www.github.com/ansible/awx/issues/11108"
+                    },
+                    {
+                        "issueName": "Update Toggle Labels on Instance List Item",
+                        "issueUrl": "https://www.github.com/ansible/awx/issues/11106"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/easzlab/kubeasz",
+                "issues": [
+                    {
+                        "issueName": "部署etcd服务报错",
+                        "issueUrl": "https://www.github.com/easzlab/kubeasz/issues/1069"
+                    },
+                    {
+                        "issueName": "部署kube-ovn网络插件时，pod一直老是CrashLoopBackOff  ",
+                        "issueUrl": "https://www.github.com/easzlab/kubeasz/issues/1068"
+                    },
+                    {
+                        "issueName": "安装单节点1.22.0版本k8s时出现以下报错",
+                        "issueUrl": "https://www.github.com/easzlab/kubeasz/issues/1067"
+                    },
+                    {
+                        "issueName": "部署Kubernetes v1.21.0 集群，由于docker和kubelet默认采用的资源管理器不通，导致kubelet启动失败。建议部署脚本优化一下",
+                        "issueUrl": "https://www.github.com/easzlab/kubeasz/issues/1065"
+                    },
+                    {
+                        "issueName": "ezctl setup k8s-01 05失败",
+                        "issueUrl": "https://www.github.com/easzlab/kubeasz/issues/1063"
+                    },
+                    {
+                        "issueName": "roles/docker/template/daemon.json.j2应该少了\"live-restore\": true参数",
+                        "issueUrl": "https://www.github.com/easzlab/kubeasz/issues/1061"
+                    },
+                    {
+                        "issueName": "想请问下，自动扩容node节点，自动缩减node节点",
+                        "issueUrl": "https://www.github.com/easzlab/kubeasz/issues/1060"
+                    },
+                    {
+                        "issueName": "建议ezctl 加上自动补全功能",
+                        "issueUrl": "https://www.github.com/easzlab/kubeasz/issues/1059"
+                    }
+                ]
+            },
+            {
+                "repoUrl": "https://www.github.com/geerlingguy/ansible-for-devops",
+                "issues": [
+                    {
+                        "issueName": "Unreachable vagrant boxes",
+                        "issueUrl": "https://www.github.com/geerlingguy/ansible-for-devops/issues/418"
+                    },
+                    {
+                        "issueName": "\"cd awx/installer\"  ",
+                        "issueUrl": "https://www.github.com/geerlingguy/ansible-for-devops/issues/414"
+                    },
+                    {
+                        "issueName": "Vagrant up halts with the following message",
+                        "issueUrl": "https://www.github.com/geerlingguy/ansible-for-devops/issues/411"
+                    },
+                    {
+                        "issueName": "Mention Ansible role argument specifications",
+                        "issueUrl": "https://www.github.com/geerlingguy/ansible-for-devops/issues/410"
+                    },
+                    {
+                        "issueName": "Link not up to date anymore ⌛ - p.34 in the book",
+                        "issueUrl": "https://www.github.com/geerlingguy/ansible-for-devops/issues/408"
+                    },
+                    {
+                        "issueName": "M1 Macs - what should I do with VirtualBox-based examples?",
+                        "issueUrl": "https://www.github.com/geerlingguy/ansible-for-devops/issues/404"
+                    },
+                    {
+                        "issueName": "CI builds for first-ansible-playbook example are failing in GitHub Actions",
+                        "issueUrl": "https://www.github.com/geerlingguy/ansible-for-devops/issues/402"
+                    },
+                    {
+                        "issueName": "Chapter 3 p31. ERROR! this task 'firewalld' has extra params, ....",
+                        "issueUrl": "https://www.github.com/geerlingguy/ansible-for-devops/issues/401"
+                    }
+                ]
+            }
+        ]
+    }
+]
